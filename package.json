@@ -1,0 +1,40 @@
+{
+    "author": "shane.yang00@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "bottle-counter",
+    "pebble": {
+        "displayName": "bottle counter",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/minus",
+                    "name": "minus_icon",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/plus",
+                    "name": "plus_icon",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/reset",
+                    "name": "reset_icon",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "48263347-1f87-4cf9-8d34-939b3f6aafd9",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
